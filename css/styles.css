@@ -132,6 +132,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#bret-burau-cover {
+  background-image: url("http://i.imgur.com/Gj6ZMKh.jpg");
+}
+
+#bret-burau-card {
+  background-image: url("http://i.imgur.com/aSxM1M8.jpg");
+}
+
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
 }
